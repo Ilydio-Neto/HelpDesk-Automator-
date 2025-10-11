@@ -1,0 +1,4 @@
+ID,Local,OS,Memoria_GB,CPU_Cores,Status
+101,Financeiro,Win10,8,4,Online
+102,Vendas,Win11,16,6,Offline
+103,Desenvolvimento,Linux,32,8,Online

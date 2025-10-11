@@ -1,0 +1,4 @@
+[2025-10-10 08:30:00] INFO: Sistema Iniciado
+[2025-10-10 09:15:22] ERROR: Falha na Conexão com DB: Timeout
+[2025-10-10 10:45:01] INFO: Rotina de Backup OK
+[2025-10-10 11:01:55] FATAL: Erro Crítico de Memória. Processo Terminado

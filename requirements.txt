@@ -1,0 +1,3 @@
+# Bibliotecas necessárias para o HelpDesk-Automator
+pandas          # Para manipulação de dados e geração de relatórios
+openpyxl        # Para o pandas salvar em .xlsx
